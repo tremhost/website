@@ -210,6 +210,16 @@
     "note": ""
   },
   {
+    "name": "Tremhost",
+    "link": "https://www.tremhost.com/",
+    "category": "full",
+    "tutorial": "",
+    "announcement": "https://tremhost.com/ssl.html",
+    "plan": "",
+    "reviewed": "2020.8.3",
+    "note": ""
+  },
+  {
     "name": "Uberspace",
     "link": "https://uberspace.de/",
     "category": "full",
